@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: dataset
+Version: 1.2.0
+Summary: Toolkit for Python-based database access.
+Home-page: http://github.com/pudo/dataset
+Author: Friedrich Lindenberg, Gregor Aisch, Stefan Wehrmeyer
+Author-email: friedrich.lindenberg@gmail.com
+License: MIT
+Keywords: sql sqlalchemy etl loading utility
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Dist: sqlalchemy (>=1.2.0)
+Requires-Dist: alembic (>=0.6.2)
+
+UNKNOWN
+
+
